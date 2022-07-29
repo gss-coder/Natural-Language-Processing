@@ -43,4 +43,21 @@
 ![Screenshot from 2022-07-29 14-32-46](https://user-images.githubusercontent.com/109052326/181725761-be3b8070-10f1-4cf7-b982-e7c4f50ae266.png)
 ![Screenshot from 2022-07-29 14-33-00](https://user-images.githubusercontent.com/109052326/181725765-6071c24f-9c5a-4708-b80a-35124fa1646d.png)
 
+## 5. [Stopwords in Natural Language Processing](https://www.youtube.com/watch?v=cCdgt3WhMSY&list=PLtCBuHKmdxOefxJhd6u8KY9vTN8G5D5yG&index=5)
+
+![Screenshot from 2022-07-29 14-49-56](https://user-images.githubusercontent.com/109052326/181729155-b9626830-abb1-419b-b382-49c1cee21190.png)
+![Screenshot from 2022-07-29 14-50-44](https://user-images.githubusercontent.com/109052326/181729165-36944110-1fa5-4afb-b7ad-2cbb74830757.png)
+![Screenshot from 2022-07-29 14-51-00](https://user-images.githubusercontent.com/109052326/181729172-86fe9b36-d569-491e-99fc-e2462369155a.png)
+![Screenshot from 2022-07-29 14-51-13](https://user-images.githubusercontent.com/109052326/181729178-2ddfcd23-b358-4ead-9d50-01cdcd390ad5.png)
+![Screenshot from 2022-07-29 14-51-15](https://user-images.githubusercontent.com/109052326/181729185-5f777c7e-5e3e-4e74-b26f-72933698dab1.png)
+![Screenshot from 2022-07-29 14-51-24](https://user-images.githubusercontent.com/109052326/181729190-65d3b3b9-1b02-499e-a4fc-b72b0f8694db.png)
+![Screenshot from 2022-07-29 14-51-51](https://user-images.githubusercontent.com/109052326/181729198-8fac97b7-7f54-47e7-a625-1290633cf06c.png)
+![Screenshot from 2022-07-29 14-52-18](https://user-images.githubusercontent.com/109052326/181729200-eb1846a0-0a32-47be-a489-4d1ffd4c8f25.png)
+![Screenshot from 2022-07-29 14-53-04](https://user-images.githubusercontent.com/109052326/181729207-f1383762-3e25-44ad-9d07-1c604d4baf0e.png)
+![Screenshot from 2022-07-29 14-54-26](https://user-images.githubusercontent.com/109052326/181729212-52bc4f2d-947b-4498-99f9-b0533090388c.png)
+![Screenshot from 2022-07-29 14-54-40](https://user-images.githubusercontent.com/109052326/181729216-2dfd14a6-d266-4ff7-a71b-aa31b6483b40.png)
+![Screenshot from 2022-07-29 14-54-58](https://user-images.githubusercontent.com/109052326/181729220-cc474208-ffb8-4e61-96e8-0f0b808085c2.png)
+
+
+
 
