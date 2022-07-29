@@ -31,3 +31,16 @@
 ![Screenshot from 2022-07-29 12-15-23](https://user-images.githubusercontent.com/109052326/181707029-938e6ec0-8511-4cec-b902-691c18f59dd6.png)
 ![Screenshot from 2022-07-29 12-15-58](https://user-images.githubusercontent.com/109052326/181707041-153d3558-cc43-42dd-8685-cff9791bf7f0.png)
 ![Screenshot from 2022-07-29 12-16-27](https://user-images.githubusercontent.com/109052326/181707050-0eb24dc7-0190-4a57-9a28-f33bcf18e32c.png)
+
+## 4. [Lemmatization in NLP using Python](https://www.youtube.com/watch?v=nyz5l3vIOv8&list=PLtCBuHKmdxOefxJhd6u8KY9vTN8G5D5yG&index=4)
+
+![Screenshot from 2022-07-29 13-01-32](https://user-images.githubusercontent.com/109052326/181725718-940fa362-935f-4399-a5e3-e9d84f40006a.png)
+![Screenshot from 2022-07-29 14-28-48](https://user-images.githubusercontent.com/109052326/181725730-42697040-f409-493b-be09-2cd0c2cfd780.png)
+![Screenshot from 2022-07-29 14-29-03](https://user-images.githubusercontent.com/109052326/181725740-1a880353-9743-4ea4-93c9-13f676998636.png)
+![Screenshot from 2022-07-29 14-30-43](https://user-images.githubusercontent.com/109052326/181725743-9805516a-d9e5-406d-a9cd-83ac2e2af530.png)
+![Screenshot from 2022-07-29 14-31-45](https://user-images.githubusercontent.com/109052326/181725752-7846890a-7157-4dfc-8805-c1d5c34681bb.png)
+![Screenshot from 2022-07-29 14-31-59](https://user-images.githubusercontent.com/109052326/181725754-fffca8e2-35f2-4ec5-bf35-94e4db2bf820.png)
+![Screenshot from 2022-07-29 14-32-46](https://user-images.githubusercontent.com/109052326/181725761-be3b8070-10f1-4cf7-b982-e7c4f50ae266.png)
+![Screenshot from 2022-07-29 14-33-00](https://user-images.githubusercontent.com/109052326/181725765-6071c24f-9c5a-4708-b80a-35124fa1646d.png)
+
+
